@@ -11,5 +11,5 @@ Added Major Earthquake Data:
 - As a third layer group and to the overlay object
 - Used GeoJSON() to create a circle for each major earthquake, and add a popup to each circle to display magnitude and location of earthquakes
 
-Displayed all the earthquake data and tectonic plate data on the map when page loads and datasets can be toggled on or off.
+Displayed all the earthquake data and tectonic plate data on the map when page loads and datasets can be toggled on or off. <br>
 Added an additional map to tile layer and overlay object.
